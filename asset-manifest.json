@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lq-app/static/css/main.34329312.chunk.css",
+    "main.js": "/lq-app/static/js/main.9f4e893a.chunk.js",
+    "main.js.map": "/lq-app/static/js/main.9f4e893a.chunk.js.map",
+    "runtime-main.js": "/lq-app/static/js/runtime-main.8981ea1a.js",
+    "runtime-main.js.map": "/lq-app/static/js/runtime-main.8981ea1a.js.map",
+    "static/css/2.658248ec.chunk.css": "/lq-app/static/css/2.658248ec.chunk.css",
+    "static/js/2.0e162b20.chunk.js": "/lq-app/static/js/2.0e162b20.chunk.js",
+    "static/js/2.0e162b20.chunk.js.map": "/lq-app/static/js/2.0e162b20.chunk.js.map",
+    "index.html": "/lq-app/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/lq-app/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.34329312.chunk.css.map": "/lq-app/static/css/main.34329312.chunk.css.map",
+    "static/js/2.0e162b20.chunk.js.LICENSE.txt": "/lq-app/static/js/2.0e162b20.chunk.js.LICENSE.txt",
+    "static/media/logo.b2e5a01e.svg": "/lq-app/static/media/logo.b2e5a01e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8981ea1a.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.0e162b20.chunk.js",
+    "static/css/main.34329312.chunk.css",
+    "static/js/main.9f4e893a.chunk.js"
+  ]
+}
