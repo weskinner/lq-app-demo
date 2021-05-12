@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lq-app-demo/static/css/main.c7413875.chunk.css",
+    "main.css": "/lq-app-demo/static/css/main.2dc222b7.chunk.css",
     "main.js": "/lq-app-demo/static/js/main.1a0ef25f.chunk.js",
     "main.js.map": "/lq-app-demo/static/js/main.1a0ef25f.chunk.js.map",
     "runtime-main.js": "/lq-app-demo/static/js/runtime-main.b2898868.js",
@@ -8,14 +8,14 @@
     "static/js/2.bca7668b.chunk.js": "/lq-app-demo/static/js/2.bca7668b.chunk.js",
     "static/js/2.bca7668b.chunk.js.map": "/lq-app-demo/static/js/2.bca7668b.chunk.js.map",
     "index.html": "/lq-app-demo/index.html",
-    "static/css/main.c7413875.chunk.css.map": "/lq-app-demo/static/css/main.c7413875.chunk.css.map",
+    "static/css/main.2dc222b7.chunk.css.map": "/lq-app-demo/static/css/main.2dc222b7.chunk.css.map",
     "static/js/2.bca7668b.chunk.js.LICENSE.txt": "/lq-app-demo/static/js/2.bca7668b.chunk.js.LICENSE.txt",
     "static/media/logo.b2e5a01e.svg": "/lq-app-demo/static/media/logo.b2e5a01e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b2898868.js",
     "static/js/2.bca7668b.chunk.js",
-    "static/css/main.c7413875.chunk.css",
+    "static/css/main.2dc222b7.chunk.css",
     "static/js/main.1a0ef25f.chunk.js"
   ]
 }
