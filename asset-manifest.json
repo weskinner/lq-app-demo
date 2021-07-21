@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/lq-app-demo/static/css/main.616879ac.chunk.css",
-    "main.js": "/lq-app-demo/static/js/main.3b4777cd.chunk.js",
-    "main.js.map": "/lq-app-demo/static/js/main.3b4777cd.chunk.js.map",
+    "main.css": "/lq-app-demo/static/css/main.2601e016.chunk.css",
+    "main.js": "/lq-app-demo/static/js/main.c55041df.chunk.js",
+    "main.js.map": "/lq-app-demo/static/js/main.c55041df.chunk.js.map",
     "runtime-main.js": "/lq-app-demo/static/js/runtime-main.f64c04d1.js",
     "runtime-main.js.map": "/lq-app-demo/static/js/runtime-main.f64c04d1.js.map",
     "static/js/2.a2cb72c6.chunk.js": "/lq-app-demo/static/js/2.a2cb72c6.chunk.js",
     "static/js/2.a2cb72c6.chunk.js.map": "/lq-app-demo/static/js/2.a2cb72c6.chunk.js.map",
     "index.html": "/lq-app-demo/index.html",
-    "static/css/main.616879ac.chunk.css.map": "/lq-app-demo/static/css/main.616879ac.chunk.css.map",
+    "static/css/main.2601e016.chunk.css.map": "/lq-app-demo/static/css/main.2601e016.chunk.css.map",
     "static/js/2.a2cb72c6.chunk.js.LICENSE.txt": "/lq-app-demo/static/js/2.a2cb72c6.chunk.js.LICENSE.txt",
     "static/media/style.css": "/lq-app-demo/static/media/select-down.d02a0597.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f64c04d1.js",
     "static/js/2.a2cb72c6.chunk.js",
-    "static/css/main.616879ac.chunk.css",
-    "static/js/main.3b4777cd.chunk.js"
+    "static/css/main.2601e016.chunk.css",
+    "static/js/main.c55041df.chunk.js"
   ]
 }
