@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.24d51425.chunk.css",
-    "main.js": "/static/js/main.4a046d9f.chunk.js",
-    "main.js.map": "/static/js/main.4a046d9f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cde20ba6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cde20ba6.js.map",
-    "static/js/2.e6a586ae.chunk.js": "/static/js/2.e6a586ae.chunk.js",
-    "static/js/2.e6a586ae.chunk.js.map": "/static/js/2.e6a586ae.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.24d51425.chunk.css.map": "/static/css/main.24d51425.chunk.css.map",
-    "static/js/2.e6a586ae.chunk.js.LICENSE.txt": "/static/js/2.e6a586ae.chunk.js.LICENSE.txt",
-    "static/media/Lock.90199bb2.svg": "/static/media/Lock.90199bb2.svg",
-    "static/media/RightArrow.811a6f1d.svg": "/static/media/RightArrow.811a6f1d.svg",
-    "static/media/style.css": "/static/media/select-down.d02a0597.svg",
-    "static/media/logo.3c2e7991.svg": "/static/media/logo.3c2e7991.svg",
-    "static/media/moon.20947f8c.svg": "/static/media/moon.20947f8c.svg",
-    "static/media/sun.fcd8f54b.svg": "/static/media/sun.fcd8f54b.svg",
-    "static/media/walletAdd.798daa2e.svg": "/static/media/walletAdd.798daa2e.svg",
-    "static/media/walletUnlock.f896f7dc.svg": "/static/media/walletUnlock.f896f7dc.svg"
+    "main.css": "/lq-app-demo/static/css/main.8501586f.chunk.css",
+    "main.js": "/lq-app-demo/static/js/main.a0bbfa5a.chunk.js",
+    "main.js.map": "/lq-app-demo/static/js/main.a0bbfa5a.chunk.js.map",
+    "runtime-main.js": "/lq-app-demo/static/js/runtime-main.f64c04d1.js",
+    "runtime-main.js.map": "/lq-app-demo/static/js/runtime-main.f64c04d1.js.map",
+    "static/js/2.e6a586ae.chunk.js": "/lq-app-demo/static/js/2.e6a586ae.chunk.js",
+    "static/js/2.e6a586ae.chunk.js.map": "/lq-app-demo/static/js/2.e6a586ae.chunk.js.map",
+    "index.html": "/lq-app-demo/index.html",
+    "static/css/main.8501586f.chunk.css.map": "/lq-app-demo/static/css/main.8501586f.chunk.css.map",
+    "static/js/2.e6a586ae.chunk.js.LICENSE.txt": "/lq-app-demo/static/js/2.e6a586ae.chunk.js.LICENSE.txt",
+    "static/media/Lock.90199bb2.svg": "/lq-app-demo/static/media/Lock.90199bb2.svg",
+    "static/media/RightArrow.811a6f1d.svg": "/lq-app-demo/static/media/RightArrow.811a6f1d.svg",
+    "static/media/style.css": "/lq-app-demo/static/media/select-down.d02a0597.svg",
+    "static/media/logo.3c2e7991.svg": "/lq-app-demo/static/media/logo.3c2e7991.svg",
+    "static/media/moon.20947f8c.svg": "/lq-app-demo/static/media/moon.20947f8c.svg",
+    "static/media/sun.fcd8f54b.svg": "/lq-app-demo/static/media/sun.fcd8f54b.svg",
+    "static/media/walletAdd.798daa2e.svg": "/lq-app-demo/static/media/walletAdd.798daa2e.svg",
+    "static/media/walletUnlock.f896f7dc.svg": "/lq-app-demo/static/media/walletUnlock.f896f7dc.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cde20ba6.js",
+    "static/js/runtime-main.f64c04d1.js",
     "static/js/2.e6a586ae.chunk.js",
-    "static/css/main.24d51425.chunk.css",
-    "static/js/main.4a046d9f.chunk.js"
+    "static/css/main.8501586f.chunk.css",
+    "static/js/main.a0bbfa5a.chunk.js"
   ]
 }
